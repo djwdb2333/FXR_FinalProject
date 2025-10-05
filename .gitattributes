@@ -1,0 +1,4 @@
+Museum/Assets/Models/house.fbx filter=lfs diff=lfs merge=lfs -text
+Museum/Assets/Models/boot_blood.fbx filter=lfs diff=lfs merge=lfs -text
+Museum/Assets/Textures/house/Wall_trim_normal.png filter=lfs diff=lfs merge=lfs -text
+Museum/Assets/Textures/kerzach_LP_Body_Normal.png filter=lfs diff=lfs merge=lfs -text
