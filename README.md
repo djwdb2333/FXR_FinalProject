@@ -16,9 +16,9 @@ We designed several interactive experiences within our museum to allow users to 
 - **3D Audio**: The museum features immersive 3D audio that changes based on the user’s position and orientation. As users move closer to the sound source, the audio becomes louder, and turning or walking around alters how the sound is experienced.
 
 ## Videos of Musem
-[Full Experience of the Musem]([https://example.com/video.mp4](https://drive.google.com/file/d/1XlVvYnt49MuP2J1GUcWgVM1oY7VU4kzr/view?usp=sharing))
+[Full Experience of the Musem](https://drive.google.com/file/d/1XlVvYnt49MuP2J1GUcWgVM1oY7VU4kzr/view?usp=sharing)
 
-[Other Video about interactions]([https://example.com/video.mp4](https://drive.google.com/file/d/1Gpg_eE5Yc-5k0bn3UFY1QKibbBcnVe7T/view?usp=sharing))
+[Other Video about interactions](https://drive.google.com/file/d/1Gpg_eE5Yc-5k0bn3UFY1QKibbBcnVe7T/view?usp=sharing)
 
 ## Team Members:
 1. Daniyal Nasiri Bavil
