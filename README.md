@@ -15,20 +15,17 @@ We designed several interactive experiences within our museum to allow users to 
 - **Gun:** Interacting with a gun transports users to a scene featuring an animation of a soldier executing a worker, along with an image of the actual location where this event occurred.
 - **3D Audio**: The museum features immersive 3D audio that changes based on the user’s position and orientation. As users move closer to the sound source, the audio becomes louder, and turning or walking around alters how the sound is experienced.
 
----
 ## Videos of Musem
 [Full Experience of the Musem](https://example.com/video.mp4)
 
 [Other Video about interactions](https://example.com/video.mp4)
 
---
 ## Team Members:
 1. Daniyal Nasiri Bavil
-   - **Role**: CDesigned the entire museum scene and developed interactions for the TV, Cloth, and Gun, as well as the 3D audio experience.
-2. 
-   - **Role: Developed interactions for the Boot washing, Notebook, and Torn-apart Map.
+   - **Role**: Designed the entire museum scene and developed interactions for the TV, Cloth, and Gun, as well as the 3D audio experience, and  Lighting system.
+2. **Zeyu Liang**
+   - **Role**: Developed interactions for the Boot washing, Notebook, and Torn-apart Map, and lighting system.
   
--- 
 ## Side Note:
 - Since only one of our computers could run Unity smoothly, we primarily worked on the same laptop and pushed all changes to a single repository under the name of one person.
 - The headset setup for our team experienced issues until the final week, preventing us from recording the full interactions using the headsets. As a result, we were only able to record the second video with the actual headset.
